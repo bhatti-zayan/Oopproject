@@ -27,7 +27,6 @@ Dependencies
 A C++ compiler (e.g., g++, Clang, Visual C++)
 Standard C++ Library (no external libraries required)
 Future Enhancements
-GUI: Implement a graphical user interface for a more user-friendly experience.
 Privacy Controls: Add options for public, friends-only, or custom post visibility.
 Groups: Allow users to create and join groups for focused discussions.
 Events: Enable users to create and share events.
